@@ -9,7 +9,7 @@ This guide is very new, so there isn't too much here - but my goal is to expand 
 - [Server Administration](#Section-2---Server-Administration)
 - [Server Management](#Section-3---Server-Management)
 - [Useful Plugins](#Useful-Plugins)
-- [Useful Resources](#Useful-Resources)
+- [Useful Plugins](#Useful-Resources)
 
 # Section 1 - Server Moderation
 - A chat filter is very important. You shouldn't expect all players to follow the rules.
@@ -20,7 +20,7 @@ This guide is very new, so there isn't too much here - but my goal is to expand 
 - DDoS Protection is important. I recommend [TCPShield](https://tcpshield.com) because it's pretty simple to setup, provides good DDOS protection and also hides your backend IP.
 - Before releasing your server, get a few friends to test it out. As an owner, I have realised that players are really good at finding every little bug that you don't.
 
-# Section 2 - Server Management
+# Section 3 - Server Management
 - Have a table (Google Sheets or Airtable works fine) that has the name of the plugin, current version, and the date of the last time you updated. This makes it easy to update in the future.
 - Have a to-do list for all of the important things you need to work on.
 - If you are creating a complex (or even slightly advanced gamemode), create a short but informative player guide. Commands can be confusing for new players so a guide is always helpful.
