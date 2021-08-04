@@ -34,5 +34,5 @@ Most plugins you'll need you can find on the [Syscraft Starter Server Guide](htt
 
 # Useful Resources
 
-[startmc.sh](https://startmc.sh) - Quickly generate startup script for your server
-[Syscraft](https://discord.gg/syscraft) - Community for server owners, developers and moderators
+- [startmc.sh](https://startmc.sh) - Quickly generate startup script for your server
+- [Syscraft](https://discord.gg/syscraft) - Community for server owners, developers and moderators
