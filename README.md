@@ -16,7 +16,7 @@ This guide is very new, so there isn't too much here - but my goal is to expand 
 
 
 # Section 2 - Server Administration
-- DDoS Protection is important. I recommend [TCPShield](tcpshield.com) because it's pretty simple to setup, provides good DDOS protection and also hides your backend IP.
+- DDoS Protection is important. I recommend [TCPShield](https://tcpshield.com) because it's pretty simple to setup, provides good DDOS protection and also hides your backend IP.
 
 # Section 2 - Server Management
 - Have a table (Google Sheets or Airtable works fine) that has the name of the plugin, current version, and the date of the last time you updated. This makes it easy to update in the future.
