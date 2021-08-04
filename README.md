@@ -9,7 +9,7 @@ This guide is very new, so there isn't too much here - but my goal is to expand 
 - [Server Administration](#Section-2---Server-Administration)
 - [Server Management](#Section-3---Server-Management)
 - [Useful Plugins](#Useful-Plugins)
-- [Useful Plugins](#Useful-Resources)
+- [Useful Resources](#Useful-Resources)
 
 # Section 1 - Server Moderation
 - A chat filter is very important. You shouldn't expect all players to follow the rules.
