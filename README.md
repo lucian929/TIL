@@ -31,6 +31,7 @@ Most plugins you'll need you can find on the [Syscraft Starter Server Guide](htt
 - [ChatSentry](https://www.spigotmc.org/resources/chatsentry.79616/) - Intelligent chat filter & control
 - [AdvancedBan](https://github.com/DevLeoko/AdvancedBan) - Free & Open Source ban management plugin.
 - [LibertyBans](https://www.spigotmc.org/resources/libertybans.81063/) - Open Source, Multi-Platform, Free ban management plugin. The be-all, end-all of discipline.
+- [EventDebugger](https://www.spigotmc.org/resources/eventdebugger.82055/) - Amazing tool that allows you to tell what plugin is altering events.
 
 # Useful Resources
 
